@@ -1,3 +1,7 @@
 PRAKTIKUM PEMWEB
 KELASSS
+<<<<<<< HEAD
 FiturA
+=======
+FiturB
+>>>>>>> FiturB
